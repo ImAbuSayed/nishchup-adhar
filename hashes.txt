@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Nishchup Adhar
+
+This log tracks the cryptographic history and versioning for the song **Nishchup Adhar** (nishchup-adhar).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-28T00:59:22.678907 | `v1` | `adfb79f29536a3e3cd58b72717b35dc9eda7012c5bccbd074a51325bdc3a05f3` | `0df284c3adb1596b64c52f85725d9ea56e3f36380de5c9bac35e0057d7bda2b5` | `2026-05-28_nishchup-adhar-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

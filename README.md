@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/nishchup-adhar/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Nishchup Adhar](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nishchup-adhar/) |
+| **Get License** | [Music Rights & Licensing for Nishchup Adhar](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nishchup-adhar/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `adfb79f29536a3e3cd58b72717b35dc9eda7012c5bccbd074a51325bdc3a05f3` |
 | **Timestamp** | May 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
